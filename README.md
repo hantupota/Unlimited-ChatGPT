@@ -40,7 +40,7 @@ Check out the live demo [here]([https://duck.gpt-api.workers.dev](https://ai.kos
 
 <br>
 
-## 📦 Python Usage ([main.py]([[https://github.com/Vauth/duckgpt/blob/main/main.py](https://github.com/hantupota/Unlimited-ChatGPT/blob/main/main.py)]
+## 📦 Python Usage ([main.py](https://github.com/hantupota/Unlimited-ChatGPT/blob/main/main.py)]
 ```python
 if __name__ == "__main__":
     Client = DuckGPT(model="gpt-4o-mini")
